@@ -10,3 +10,4 @@
   <p>Bu sayt tam pulsuzdur və reklam yoxdur.</p>
 </body>
 </html>
+InShot_20250525_175244212.jpg
